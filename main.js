@@ -40,7 +40,7 @@ document.querySelector('#app').innerHTML = `
     </nav>
 
     <!-- Hero Section -->
-    <section class="pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-cover bg-center" style="background-image:url('/hero.jpg')" id="hero-section">
+    <section id="hero-section" class="pt-32 pb-20 px-4 sm:px-6 lg:px-8 bg-cover bg-center" style="background-image:url('/hero.jpg')">
       <div class="max-w-7xl mx-auto">
         <div class="text-center max-w-4xl mx-auto">
           <div class="inline-flex items-center px-4 py-2 rounded-full bg-blue-50 border border-blue-200 mb-8">
